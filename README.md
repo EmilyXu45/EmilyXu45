@@ -35,8 +35,10 @@ This project sparked my interest in inclusive design and user-centred software d
 
 1. Hello World -- Hannah Fry
 2. Computing with Quantum Cats -- John Gribbin
-3. CODE: The Hidden Language of Computer Hardware and Software -- Chales Petzold  
-These readings have helped deepen my understanding of both the theoretical foundations and broader impact of computing, especially in our daily lives.
+3. CODE: The Hidden Language of Computer Hardware and Software -- Chales Petzold
+
+These readings have helped deepen my understanding of both the theoretical foundations and broader impact of computing, especially in our daily lives.  
+
 ---
 
 ## 🎓 Courses that I've done/ currently doing:
