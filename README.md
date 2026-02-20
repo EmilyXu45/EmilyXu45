@@ -1,7 +1,9 @@
 ## Hi, I'm Emily! 👋
 
-I am currently a sixth-form student/ scholar at Garden International School KL. 
-I am passionate about Computer Science and Engineering and am interested in Artificial Intelligence, Software Development and Neural Networks.
+I am currently a sixth-form student/ scholar at Garden International School KL.   
+
+I am passionate about Computer Science and Engineering and am interested in Artificial Intelligence, Software Development and Neural Networks.  
+
 ---
 
 ## 💻 Languages
@@ -47,8 +49,8 @@ These readings have helped deepen my understanding of both the theoretical found
 
 ## 📬 Contact:
 
-Email: EmilyXu030@gmail.com
-LinkedIn: linkedin.com/in/emily-xu-5baba7382
+Email: EmilyXu030@gmail.com  
+LinkedIn: linkedin.com/in/emily-xu-5baba7382  
 
 
 
