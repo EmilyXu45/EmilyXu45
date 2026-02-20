@@ -50,7 +50,7 @@ These readings have helped deepen my understanding of both the theoretical found
 ## 📬 Contact:
 
 Email: EmilyXu030@gmail.com  
-LinkedIn: linkedin.com/in/emily-xu-5baba7382  
+LinkedIn: https://linkedin.com/in/emily-xu-5baba7382
 
 
 
