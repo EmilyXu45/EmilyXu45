@@ -6,7 +6,7 @@ I am passionate about Computer Science and Engineering and am interested in Arti
 
 💻 Languages: Python, Swift, HTML/CSS 
 I am always open to learning new languages and technologies as required by a project though!
---
+--*
 
 🚧 Projects that I'm currently working on include:
 1. DofE Log Assisstant: Exploring the possiblity of incoporating AI to assisst students in writing their logs more effectively.
