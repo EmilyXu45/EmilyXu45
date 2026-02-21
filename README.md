@@ -10,8 +10,8 @@ I am passionate about Computer Science and Engineering with particular interests
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
 </p>
 I am always open to learning new languages and technologies as required by a project though!
 
@@ -61,13 +61,6 @@ I enjoy reading books that explore both the theoretical foundations of computer 
       alt="GitHub streak"
     />
   </a>
-</p>
-
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=EmilyXu45&show_icons=true&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&text_bold=false" 
-    alt="GitHub stats"
-  />
 </p>
 
 
