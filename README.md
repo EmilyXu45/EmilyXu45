@@ -57,7 +57,7 @@ I enjoy reading books that explore both the theoretical foundations of computer 
 <p>
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=EmilyXu45&theme=dark&hide_border=true&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=EmilyXu45&theme=dark&hide_border=true&ring=80DB8A&fire=80DB8A&currStreakNum=80DB8A&currStreakLabel=FFFFFF" 
       alt="GitHub streak"
     />
   </a>
