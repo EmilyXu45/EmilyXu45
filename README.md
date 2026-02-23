@@ -27,9 +27,8 @@ Maintaining and extending the official website to introduce a new hackathon page
 
 ## 🎉 Projects that I have done:
 
-1. **StuDino:** One of my earliest apps (made with the assistant of AI tools), inspired by a close friend with dyslexia. Designed to help students organise their studies, manage exam stress, and reduce anxiety.
-This project sparked my interest in inclusive design and user-centred software development. 
-2. **Mindfulness:** App developed for a Social & Emotional Learning project to help students practise mindfulness and gratitude through a simple, accessible interface.
+1. **StuDino:** This is one of my earliest apps made on Swift Playground (with the assistant of AI tools). Inspired by a close friend with dyslexia, this minimalistic app is designed to help students organise their studies, manage exam stress, and reduce anxiety wih features like flashcards and a pomodoro timer.
+2. **Mindfulness:** App developed for a Social & Emotional Learning project to help students practise mindfulness and gratitude through a simple, accessible interface. Vaguely similar to the StuDino app, Mindfulness however, features dynamic animations to help students practice deep breathing.
 ---
 
 ## 📚 Books I've read:
