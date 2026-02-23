@@ -37,11 +37,13 @@ Maintaining and extending the official website to introduce a new hackathon page
 2. **Computing with Quantum Cats** -- John Gribbin
 3. **CODE:** The Hidden Language of Computer Hardware and Software -- Chales Petzold
 
-I enjoy reading books that explore both the theoretical foundations of computer science and its real-world applications, particularly in how computing influences everyday life and decision-making.
+I enjoy reading books that explore both the theoretical foundations of computer science and its real-world applications, particularly in how computing influences everyday life and decision-making. 
+
+Interesting book recommendations will be greatly appreciated!
 
 ---
 
-## 🎓 Courses that I've done/ currently doing:
+## 🎓 Courses that I've done/ I'm currently doing:
 
 1. Kaggle: Introduction to Machine Learning
 2. CS50: Introduction to Python
