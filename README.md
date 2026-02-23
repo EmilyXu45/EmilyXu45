@@ -13,19 +13,16 @@ I am passionate about Computer Science and Engineering with particular interests
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
 </p>
-I am always open to learning new languages and technologies as required by a project though!
+I'm always open to learning new languages and technologies as required by a project though!
 
 ---
 
-## 🚧 Projects that I'm currently working on include:
+## 🚧 Projects that I'm currently working on:
 
 1. **DofE Log Assisstant:** Exploring the possiblity of incoporating AI to assisst students in writing their logs more effectively.
 2. **GirlsInCode SEA Website:** 
-Maintaining and extending the official website, including:
-A dynamic hackathon page
-Database-driven scoreboard functionality
-Ongoing improvements to scalability and maintainability
-3. **Python Challenges:** Doing practices that help with my problem solving skills for my A-level CIE computer science exam
+Maintaining and extending the official website to introduce a new hackathon page, incorporate a database driven scoreboard in both our ongoing and past competitions and organise tabs dybamically based on cutrent events.
+3. **Python Challenges:** Doing practices from the Weebly Python Challenges website that help with my problem solving skills for my A-level CIE computer science exam; strengthening my foundation in coding.
 ---
 
 ## 🎉 Projects that I have done:
