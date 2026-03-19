@@ -22,7 +22,8 @@ I'm always open to learning new languages and technologies as required by a proj
 1. **DofE Log Assisstant:** Exploring the possiblity of incoporating AI to assisst students in writing their logs more effectively.
 2. **GirlsInCode SEA Website:** 
 Maintaining and extending the official website to introduce a new hackathon page, incorporate a database driven scoreboard in both our ongoing and past competitions and organise tabs dybamically based on cutrent events.
-3. **Python Challenges:** Doing practices from the Weebly Python Challenges website that help with my problem solving skills for my A-level CIE computer science exam; strengthening my foundation in coding.
+3. **ASL Learning APP**
+An app created to assist students and teachers in learning ASL.
 ---
 
 ## 🎉 Projects that I have done:
